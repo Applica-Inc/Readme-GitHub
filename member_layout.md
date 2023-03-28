@@ -6,7 +6,7 @@
 |---------------|:--------:|:---:|:-----:|:--------------------|:--------------------|
 |MemberId       | Varchar  | 13  |  Yes  | Member Number       | Key                 |
 |FirstName      | Varchar  | 30  |       | First Name          |                     |
-|MiddelName     | Varchar  |  1  |       | Middel Name         |                     |
+|MiddleName     | Varchar  |  1  |       | Middle Name         |                     |
 |LastName       | Varchar  | 30  |       | Last Name           |                     |
 |BirthDay       | DateTime |  8  |       | BirthDay            |                     |
 |Dependent      | Varchar  |  2  |       | Dependent           |                     |
